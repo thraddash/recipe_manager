@@ -8,8 +8,8 @@ https://www.markdownguide.org/basic-syntax/#reference-style-links
 [![GitHub issues][issues-shield]][issues-url]
 [![GitHub releases][releases-shield]][releases-url]
 
-![product-screenshot]
-
+## Recipe Manager
+<!-- ![product-screenshot] -->
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -77,6 +77,9 @@ Create a simple recipe organization app to store recipes:
 
 <!-- LOGGING -->
 ## Logging
+
+<!-- UNITTEST -->
+## Unittest
 
 <!-- ROADMAP -->
 ## Roadmap
