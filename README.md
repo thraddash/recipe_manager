@@ -112,7 +112,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- MARKDOWN LINKS & IMAGES -->
 [python-shield]: https://img.shields.io/badge/Python-3.9.2-blue.svg
 [python-url]: https://www.python.org/downloads/release/python-392/
-[commits-shield]: https://img.shields.io/github/commit-activity/y/thraddash/recipe_manager?color=orange
+[commits-shield]: https://img.shields.io/github/commit-activity/y/thraddash/recipe_manager
 [issues-shield]: https://img.shields.io/github/issues/thraddash/recipe_manager
 [issues-url]: https://github.com/thraddash/recipe_manager/issues
 [releases-shield]: https://img.shields.io/github/release/thraddash/recipe_manager
