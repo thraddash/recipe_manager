@@ -8,7 +8,7 @@ https://www.markdownguide.org/basic-syntax/#reference-style-links
 [![GitHub issues][issues-shield]][issues-url]
 [![GitHub releases][releases-shield]][releases-url]
 
-![Project Screenshot][product-screenshot]
+![product-screenshot]
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -114,4 +114,4 @@ Contributions are what make the open source community such an amazing place to b
 [issues-url]: https://github.com/thraddash/recipe_manager/issues
 [releases-shield]: https://img.shields.io/github/release/thraddash/recipe_manager
 [releases-url]: https://github.com/thraddash/recipe_manager/releases
-[product-screenshot]: images/screenshot.jpg
+[product-screenshot]: /images/screenshot.png
