@@ -107,7 +107,6 @@ Contributions are what make the open source community such an amazing place to b
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Img Shields](https://shields.io)
-* [Readme Template](https://github.com/othneildrew/Best-README-Template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [python-shield]: https://img.shields.io/badge/Python-3.9.2-blue.svg
